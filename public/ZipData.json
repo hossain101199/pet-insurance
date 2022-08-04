@@ -1,0 +1,352 @@
+[
+  {
+    "ID": "1",
+    "Sate": "Alabama",
+    "SateCapital": "Montgomery",
+    "ZipMin": "35004",
+    "ZipMax": "36925"
+  },
+  {
+    "ID": "2",
+    "Sate": "Alaska",
+    "SateCapital": "Juneau",
+    "ZipMin": "99501",
+    "ZipMax": "99950"
+  },
+  {
+    "ID": "3",
+    "Sate": "Arizona",
+    "SateCapital": "Phoenix",
+    "ZipMin": "85001",
+    "ZipMax": "86556"
+  },
+  {
+    "ID": "4",
+    "Sate": "Arkansas",
+    "SateCapital": "Little Rock",
+    "ZipMin": "71601",
+    "ZipMax": "72959"
+  },
+  {
+    "ID": "5",
+    "Sate": "California",
+    "SateCapital": "Sacramento",
+    "ZipMin": "90001",
+    "ZipMax": "96162"
+  },
+  {
+    "ID": "6",
+    "Sate": "Colorado",
+    "SateCapital": "Denver",
+    "ZipMin": "80001",
+    "ZipMax": "81658"
+  },
+  {
+    "ID": "7",
+    "Sate": "Connecticut",
+    "SateCapital": "Hartford",
+    "ZipMin": "06001",
+    "ZipMax": "06928"
+  },
+  {
+    "ID": "8",
+    "Sate": "Delaware",
+    "SateCapital": "Dover",
+    "ZipMin": "19701",
+    "ZipMax": "19980"
+  },
+  {
+    "ID": "9",
+    "Sate": "Florida",
+    "SateCapital": "Tallahassee",
+    "ZipMin": "32003",
+    "ZipMax": "34997"
+  },
+  {
+    "ID": "10",
+    "Sate": "Georgia",
+    "SateCapital": "Atlanta",
+    "ZipMin": "30002",
+    "ZipMax": "39901"
+  },
+  {
+    "ID": "11",
+    "Sate": "Hawaii",
+    "SateCapital": "Honolulu",
+    "ZipMin": "96701",
+    "ZipMax": "96898"
+  },
+  {
+    "ID": "12",
+    "Sate": "Idaho",
+    "SateCapital": "Boise",
+    "ZipMin": "83201",
+    "ZipMax": "83877"
+  },
+  {
+    "ID": "13",
+    "Sate": "Illinois",
+    "SateCapital": "Springfield",
+    "ZipMin": "60001",
+    "ZipMax": "62999"
+  },
+  {
+    "ID": "14",
+    "Sate": "Indiana",
+    "SateCapital": "Indianapolis",
+    "ZipMin": "46001",
+    "ZipMax": "47997"
+  },
+  {
+    "ID": "15",
+    "Sate": "Iowa",
+    "SateCapital": "Des Moines",
+    "ZipMin": "50001",
+    "ZipMax": "52809"
+  },
+  {
+    "ID": "16",
+    "Sate": "Kansas",
+    "SateCapital": "Topeka",
+    "ZipMin": "66002",
+    "ZipMax": "67954"
+  },
+  {
+    "ID": "17",
+    "Sate": "Kentucky",
+    "SateCapital": "Frankfort",
+    "ZipMin": "40003",
+    "ZipMax": "42788"
+  },
+  {
+    "ID": "18",
+    "Sate": "Louisiana",
+    "SateCapital": "Baton Rouge",
+    "ZipMin": "70001",
+    "ZipMax": "71497"
+  },
+  {
+    "ID": "19",
+    "Sate": "Maine",
+    "SateCapital": "Augusta",
+    "ZipMin": "03901",
+    "ZipMax": "04992"
+  },
+  {
+    "ID": "20",
+    "Sate": "Maryland",
+    "SateCapital": "Annapolis",
+    "ZipMin": "20588",
+    "ZipMax": "21930"
+  },
+  {
+    "ID": "21",
+    "Sate": "Massachusetts",
+    "SateCapital": "Boston",
+    "ZipMin": "01001",
+    "ZipMax": "05544"
+  },
+  {
+    "ID": "22",
+    "Sate": "Michigan",
+    "SateCapital": "Lansing",
+    "ZipMin": "48001",
+    "ZipMax": "49971"
+  },
+  {
+    "ID": "23",
+    "Sate": "Minnesota",
+    "SateCapital": "Saint Paul",
+    "ZipMin": "55001",
+    "ZipMax": "56763"
+  },
+  {
+    "ID": "24",
+    "Sate": "Mississippi",
+    "SateCapital": "Jackson",
+    "ZipMin": "38601",
+    "ZipMax": "39776"
+  },
+  {
+    "ID": "25",
+    "Sate": "Missouri",
+    "SateCapital": "Jefferson City",
+    "ZipMin": "63001",
+    "ZipMax": "65899"
+  },
+  {
+    "ID": "26",
+    "Sate": "Montana",
+    "SateCapital": "Helena",
+    "ZipMin": "59001",
+    "ZipMax": "59937"
+  },
+  {
+    "ID": "27",
+    "Sate": "Nebraska",
+    "SateCapital": "Lincoln",
+    "ZipMin": "68001",
+    "ZipMax": "69367"
+  },
+  {
+    "ID": "28",
+    "Sate": "Nevada",
+    "SateCapital": "Carson City",
+    "ZipMin": "88901",
+    "ZipMax": "89883"
+  },
+  {
+    "ID": "29",
+    "Sate": "New Hampshire",
+    "SateCapital": "Concord",
+    "ZipMin": "03031",
+    "ZipMax": "03897"
+  },
+  {
+    "ID": "30",
+    "Sate": "New Jersey",
+    "SateCapital": "Trenton",
+    "ZipMin": "07001",
+    "ZipMax": "08989"
+  },
+  {
+    "ID": "31",
+    "Sate": "New Mexico",
+    "SateCapital": "Santa Fe",
+    "ZipMin": "87001",
+    "ZipMax": "88439"
+  },
+  {
+    "ID": "32",
+    "Sate": "New York",
+    "SateCapital": "Albany",
+    "ZipMin": "00501",
+    "ZipMax": "14925"
+  },
+  {
+    "ID": "33",
+    "Sate": "North Carolina",
+    "SateCapital": "Raleigh",
+    "ZipMin": "27006",
+    "ZipMax": "28909"
+  },
+  {
+    "ID": "34",
+    "Sate": "North Dakota",
+    "SateCapital": "Bismarck",
+    "ZipMin": "58001",
+    "ZipMax": "58856"
+  },
+  {
+    "ID": "35",
+    "Sate": "Ohio",
+    "SateCapital": "Columbus",
+    "ZipMin": "43001",
+    "ZipMax": "45999"
+  },
+  {
+    "ID": "36",
+    "Sate": "Oklahoma",
+    "SateCapital": "Oklahoma City",
+    "ZipMin": "73001",
+    "ZipMax": "74966"
+  },
+  {
+    "ID": "37",
+    "Sate": "Oregon",
+    "SateCapital": "Salem",
+    "ZipMin": "97001",
+    "ZipMax": "97920"
+  },
+  {
+    "ID": "38",
+    "Sate": "Pennsylvania",
+    "SateCapital": "Harrisburg",
+    "ZipMin": "15001",
+    "ZipMax": "19640"
+  },
+  {
+    "ID": "39",
+    "Sate": "Rhode Island",
+    "SateCapital": "Providence",
+    "ZipMin": "02801",
+    "ZipMax": "02940"
+  },
+  {
+    "ID": "40",
+    "Sate": "South Carolina",
+    "SateCapital": "Columbia",
+    "ZipMin": "29001",
+    "ZipMax": "29945"
+  },
+  {
+    "ID": "41",
+    "Sate": "South Dakota",
+    "SateCapital": "Pierre",
+    "ZipMin": "57001",
+    "ZipMax": "57799"
+  },
+  {
+    "ID": "42",
+    "Sate": "Tennessee",
+    "SateCapital": "Nashville",
+    "ZipMin": "37010",
+    "ZipMax": "38589"
+  },
+  {
+    "ID": "43",
+    "Sate": "Texas",
+    "SateCapital": "Austin",
+    "ZipMin": "73301",
+    "ZipMax": "88595"
+  },
+  {
+    "ID": "44",
+    "Sate": "Utah",
+    "SateCapital": "Salt Lake City",
+    "ZipMin": "84001",
+    "ZipMax": "84791"
+  },
+  {
+    "ID": "45",
+    "Sate": "Vermont",
+    "SateCapital": "Montpelier",
+    "ZipMin": "05001",
+    "ZipMax": "05907"
+  },
+  {
+    "ID": "46",
+    "Sate": "Virginia",
+    "SateCapital": "Richmond",
+    "ZipMin": "20101",
+    "ZipMax": "24658"
+  },
+  {
+    "ID": "47",
+    "Sate": "Washington",
+    "SateCapital": "Olympia",
+    "ZipMin": "98001",
+    "ZipMax": "99403"
+  },
+  {
+    "ID": "48",
+    "Sate": "West Virginia",
+    "SateCapital": "Charleston",
+    "ZipMin": "24701",
+    "ZipMax": "26886"
+  },
+  {
+    "ID": "49",
+    "Sate": "Wisconsin",
+    "SateCapital": "Madison",
+    "ZipMin": "53001",
+    "ZipMax": "54990"
+  },
+  {
+    "ID": "50",
+    "Sate": "Wyoming",
+    "SateCapital": "Cheyenne",
+    "ZipMin": "82001",
+    "ZipMax": "83414"
+  }
+]
